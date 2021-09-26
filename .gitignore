@@ -2,10 +2,6 @@
 .history
 node_modules
 docs
-lib
-esm
-es
-umd
 .eslintcache
 
 # npm
