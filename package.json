@@ -1,6 +1,6 @@
 {
   "name": "bizcharts",
-  "version": "4.1.28",
+  "version": "4.1.12",
   "description": "bizcharts",
   "keywords": [
     "bizcharts",
@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "@antv/component": "*",
-    "@antv/g2": "4.1.19",
+    "@antv/g2": "4.1.28",
     "@antv/g2plot": "2.3.25",
     "@antv/util": "*",
     "@babel/plugin-transform-modules-commonjs": "^7.12.1",
